@@ -1,0 +1,13 @@
+[project]
+name = "hesabdar-mobile"
+version = "1.0.0"
+requires-python = ">=3.12"
+
+[tool.flet]
+org = "com.hesabdar"
+product = "HesabdarMobile"
+company = "Hesabdar"
+copyright = "Copyright (C) 2026"
+
+[tool.flet.app]
+path = "src"
